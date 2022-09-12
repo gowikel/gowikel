@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/gowikel">Gowikel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
+
 ![language's stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true&count_private=true)
 ![Gowikel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gowikel&show_icons=true&count_private=true&theme=gruvbox)
 
