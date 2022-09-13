@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 
-![language's stats](https://github-readme-stats.vercel.app/api?username=hiljusti&theme=gruvbox&show_icons=true&count_private=true)
+![language's stats](https://github-readme-stats.vercel.app/api?username=gowikel&theme=gruvbox&show_icons=true&count_private=true)
 ![Gowikel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gowikel&show_icons=true&count_private=true&theme=gruvbox)
 
 [![codewars](https://www.codewars.com/users/gowikel/badges/micro)](https://www.codewars.com/users/gowikel)
